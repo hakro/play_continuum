@@ -9,3 +9,7 @@ It's made using :
 It's meant to be playable on browser through Github Pages, here :
 
 [Continuum - The game](http://hakro.github.io/play_continuum)
+
+Source code is here :
+
+[Continuum - The source Code](https://github.com/hakro/continuum)
