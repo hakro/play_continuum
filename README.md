@@ -8,4 +8,4 @@ It's made using :
 
 It's meant to be playable on browser through Github Pages, here :
 
-[Continuum - The game](http://username.github.io/repository)
+[Continuum - The game](http://hakro.github.io/play_continuum)
